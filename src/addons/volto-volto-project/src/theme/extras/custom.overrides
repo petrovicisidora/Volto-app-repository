@@ -1,0 +1,15 @@
+//header
+.ui.basic.segment.header-wrapper {
+  position: relative;
+  margin-bottom: 20px;
+  background-color: #135cc3eb;
+  height: 60px;
+
+  &.ui.segment {
+    padding-top: 0em;
+    padding-bottom: 0em;
+  }
+
+}
+
+
